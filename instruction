@@ -1,0 +1,4 @@
+To sue you will need sql db because
+program save information about file
+directly to db and re-configure 
+hibernate.cfg.xml file to your own data
